@@ -1,6 +1,6 @@
-#**Adventure_Works_Sell_Report**
+# **Adventure_Works_Sell_Report**
 
-SQL + PowerBI
+**SQL + PowerBI**
 
 ![Pagina](Images/01.png)
 ![Pagina](Images/02.png)
